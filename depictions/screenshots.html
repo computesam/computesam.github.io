@@ -82,7 +82,7 @@
 				if (navigator.userAgent.search(/Cydia/) != -1) {
 					$("a").each(function() {
 						console.log($(this).text());
-						$(this).attr("target","_blank");
+						$(this).attr("_blank"); //"target", "_blank"
 					});
 				}
 			},
