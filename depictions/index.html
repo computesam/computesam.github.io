@@ -42,8 +42,8 @@
 
 	<div id="packageHeader" class="container" style="display:block">
 		<div class="jumbotron">
-			<h1 id="packageName">&nbsp;</h1>
-			<p id="packageShortDesc">&nbsp;</p>
+			<h1 id="packageName">com.computesam.tweakx</h1>
+			<p id="packageShortDesc">Simple package manager;</p>
 		</div>
 	</div>
 
@@ -90,7 +90,7 @@
      // if on Cydia, set link targets to _blank
      if (navigator.userAgent.search(/Cydia/) != -1) {
        $("a").each(function() {
-         $(this).attr("target","_blank");
+         $(this).attr("_blank");
        });
      }
    }
