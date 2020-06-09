@@ -1,0 +1,27 @@
+Package: com.computesam.user2
+Version: 2.0.1
+Section: Tweaks
+Maintainer: Sam <techsamkinman@gmail.com>
+Depends: firmware (<13.3), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.computesam.user2_2.0.0b1_iphoneos-arm.deb
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: A work in progress for IOS guest enviroments.
+Name: User2
+Author: Sam <techsamkinman@gmail.com>
+Depiction: https://computesam.github.io/depictions/?p=com.computesam.guest2
+
+Package: com.computesam.tweakx
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Sam <techsamkinman@gmail.com>
+Depends: firmware (<13.3)
+Architecture: iphoneos-arm
+Filename: ./debs/com.computesam.tweakx_1.0.0b1_iphoneos-arm.deb
+Size: 860
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Description: Simple
+Name: TweakX
+Author: Sam <techsamkinman@gmail.com>
+Depiction: https://computesam.github.io/depictions/?p=com.computesam.tweakx 
