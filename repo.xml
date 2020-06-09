@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Follow me on Twitter</name>
+			<url>https://twitter.com/ComputeSam</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>TweakX</name>
+			<url>https://github.com/ComputeSam/TweakX/
+			<iconclass>fa fa-thumbs-up</iconclass>
+		</link>
+	</footerlinks>
+</repo>

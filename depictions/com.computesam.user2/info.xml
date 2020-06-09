@@ -1,0 +1,44 @@
+<package>
+	<id>com.computesam.user2</id>
+	<name>User2</name>
+	<version>2.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.5</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>IOS guest user enviroment</shortDescription>
+	<descriptionlist>
+		<description>A work in progress IOS guest enviroment. Expect bugs.</description>
+		<description>Currently in Beta</description>
+		<description><![CDATA[
+		HTML multiline.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Settings UI</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>Feature UI</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Initial Beta Release</change>
+		<change>IOS Guest enviroment</change>
+		<change>Delete after use</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

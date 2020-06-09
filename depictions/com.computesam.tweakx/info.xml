@@ -1,0 +1,23 @@
+<package>
+	<id>com.computesam.tweakx</id>
+	<name>TweakX</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>13.5</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>A simple cydia package manager</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial Beta release</change>
+	</changelog>
+	<links></links>
+</package>
